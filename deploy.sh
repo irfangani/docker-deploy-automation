@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Maintainer: Gani
+# Author: Gani
 # GitHub: https://github.com/irfangani/docker-deploy-automation
 
 # Configuration
