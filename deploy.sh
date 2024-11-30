@@ -8,7 +8,7 @@ export TZ="Asia/Jakarta"
 
 # Parse arguments
 BASE_DIR=""
-REPO_PATH=""
+REPO_PATH="" # Directory where the docker-compose.yml is located
 BRANCH="staging" # Default branch
 
 # Ensure at least the base directory is provided
