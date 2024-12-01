@@ -3,6 +3,8 @@
 
 A lightweight and flexible deployment automation script designed for Docker-based projects. This script streamlines the process of pulling updates from a Git repository, rebuilding Docker containers, and restarting services with minimal effort.
 
+This script is designed to automate the deployment process using Docker. Its primary purpose is to simplify deployment management for projects where implementing Continuous Integration/Continuous Deployment (CI/CD) is not feasible due to infrastructure limitations, work environment constraints, or other reasons.
+
 ## Features
 
 - **Dynamic Configuration**:
